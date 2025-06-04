@@ -19,7 +19,6 @@ A static website is made up of fixed content — each page is coded in HTML and 
 - [ ] Easy to host and secure
 - [ ] Great for small websites (e.g., portfolios, landing pages)
 
-```
 A dynamic website generates content in real-time, often using a database and server-side scripting.
 - Features:
 - [ ] Personalized content (e.g., user profiles, dashboards)
