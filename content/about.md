@@ -1,31 +1,35 @@
 ---
 title: "About"
-date: 2023-12-18T18:18:04+07:00
+date: 2025-06-03T18:18:04+07:00
 draft: false
 description: This my next awesome post about stuff that my audience love to read.
 featured_image: ../assets/images/defaults/featured_image.jpg
 ---
 
-# Advocating for better work ethics
-> lorem
+# Software Consulting 
+> Spotify
 
-## Title
+## Web Mobile designing and development
 
-Some text
+A static website is made up of fixed content — each page is coded in HTML and displays the same information to every visitor.
 
-- list
+- Features:
 
-- [ ] list
-
-- [x] list
+- [ ] Simple and fast to load
+- [ ] Easy to host and secure
+- [ ] Great for small websites (e.g., portfolios, landing pages)
 
 ```
-Text
+A dynamic website generates content in real-time, often using a database and server-side scripting.
+- Features:
+- [ ] Personalized content (e.g., user profiles, dashboards)
+- [ ] Interactive and scalable
+- [ ] Ideal for blogs, e-commerce, social networks
 ```
-**Hello**
+** Website **
 
 ---
 
-### Title
+### Web/Mobile   designing and development 
 
-### Title
+### Games designing and development 
