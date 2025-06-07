@@ -32,8 +32,12 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload static files as artifact
+        id: upload
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          path: ./
+
+      - name: Deploy to GitHub Pages from artifact
+        id: deployment
+        uses: actions/deploy-pages@v4
