@@ -2,5 +2,4 @@
 
 ## Built with
 
-- [Hugo](https://gohugo.io/)
-  - [Minimal Marketing](https://github.com/letItCurl/minimal_marketing) Theme - Used under MIT License, see [theme.toml](./theme.toml)
+- [Creative Free Responsive HTML5](https://github.com/learning-zone/website-templates)
